@@ -1,0 +1,26 @@
+{
+    "1": {
+        "first_name": "Joseph",
+        "last_name": "Zaniolini",
+        "email": "jzaniolini0@simplemachines.org",
+        "gender": "Male"
+    },
+    "2": {
+        "first_name": "Freida",
+        "last_name": "Drillingcourt",
+        "email": "fdrillingcourt1@umich.edu",
+        "gender": "Female"
+    },
+    "3": {
+        "first_name": "Nanni",
+        "last_name": "Herity",
+        "email": "nherity2@statcounter.com",
+        "gender": "Female"
+    },
+    "4": {
+        "first_name": "Orazio",
+        "last_name": "Frayling",
+        "email": "ofrayling3@economist.com",
+        "gender": "Male"
+    }
+}
